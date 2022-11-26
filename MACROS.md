@@ -9,3 +9,7 @@
 ### Chat
 
 `/chat = chats.send {{channel : "{0}", msg : "{$}"}}`
+
+### Security
+
+`/level = scripts.get_level {{ name: "{0}" }}`
