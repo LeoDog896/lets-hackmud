@@ -1,3 +1,5 @@
+(You can also skip it using `sys.migrate { confirm: true }` though the tutorial is fun!)
+
 # Tips for the hackmud tutorial
 
 To avoid making another user, use `trust.sentience {f1rST:"H41f", S3c0nd:"h@/_F"}`
@@ -83,3 +85,38 @@ run it again, raise hell, and join them!
 ## money laundring
 
 steal some GC from the money laundring script to get enough to run `sys.init` (1MGC) and begin browsing the market!
+
+## revenge?
+
+break into yrollam's script, and make a choice. Regardless of who you pick, you will be working for both.
+
+TIP: get me the system which got access after "some user" got access after is in REVERSE order:
+
+```
+610731.2351 Connection from anon_d5v87m.entry_9jqm9v
+610113.0159 System access from unidentified_1jl76a.external_uuwlm0
+600819.1318 System access from unidentified_z5w91h.pub_9t6mka
+600704.1121 Connection from anon_ox09o0.public_o3zwtz
+600115.2101 Connection from unidentified_yi28sn.external_vumyyc
+590401.0220 System access from derelict_475eub.public_e3u91j
+//                             ^ then THIS is the person you put in
+590401.0220 Connection from anonymous_6d2vgi.entry_swn8v9
+//                          ^ lets say this was the user you're checking
+590330.0203 test
+570704.1748 test
+570216.1542 Connection from unidentified_rokbj2.entry_5j7t51
+560909.1059 System access from abndnd_u5ufd5.external_habtop
+560727.1615 Connection from abndnd_c248pb.pub_iowd2k
+560531.1414 does this work
+```
+
+Once you finish the first firewall, remember that other user you created? In vLAN, you can jump about the tutorial -- use that to your advantage and join the angels or the minions -- whichever one you missed.
+
+Or, if you're lazy:
+
+<details>
+  <summary>Answer</summary>
+  
+  `firewall.end_5d3hyz {righteous:"i5 n0t 3n0ugh", ravenous: "1z no+ eNo|_|g|-|"}`
+  
+</details>
